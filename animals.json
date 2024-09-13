@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Lion",
+    "species": "African"
+  },
+  {
+    "id": 2,
+    "name": "Elephant",
+    "species": "Indian"
+  },
+  {
+    "name": "Giraffe",
+    "species": "Australian",
+    "id": 3
+  }
+]
